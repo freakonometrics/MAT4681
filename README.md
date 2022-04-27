@@ -5,7 +5,7 @@
 
 
 1. Données, individus, variables
-2. R, introduction [https://github.com/freakonometrics/MAT4681/blob/master/slides/MAT_4681_slides_02.pdf](slides02.pdf)
+2. R, introduction [slides02.pdf](https://github.com/freakonometrics/MAT4681/blob/master/slides/MAT_4681_slides_02.pdf) [cours.R](https://github.com/freakonometrics/MAT4681/blob/master/slides/cours.R)
 3. Probabilités
 4. Moyenne variance, échantillonnage
 5. Histogramme, fonction de répartition
