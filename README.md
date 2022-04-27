@@ -6,7 +6,11 @@
 
 1. Données, individus, variables
 2. R, introduction [slides02.pdf](https://github.com/freakonometrics/MAT4681/blob/master/slides/MAT_4681_slides_02.pdf) [cours.R](https://github.com/freakonometrics/MAT4681/blob/master/slides/cours.R)
-[video1](https://www.youtube.com/watch?v=IqYdWXUSv_g&list=PLCrFTE7Gu_3RG98Ahj3MCgdBsjysMJ-4H) (29:24)
+[video1](https://www.youtube.com/watch?v=IqYdWXUSv_g&list=PLCrFTE7Gu_3RG98Ahj3MCgdBsjysMJ-4H&index=1) (29:24) 
+[video2](https://www.youtube.com/watch?v=UbZV1NSbabU&list=PLCrFTE7Gu_3RG98Ahj3MCgdBsjysMJ-4H&index=2) (22:11) 
+[video3](https://www.youtube.com/watch?v=w35n5JI-tw8&list=PLCrFTE7Gu_3RG98Ahj3MCgdBsjysMJ-4H&index=3) (18:51) 
+[video4](https://www.youtube.com/watch?v=IqYdWXUSv_g&list=PLCrFTE7Gu_3RG98Ahj3MCgdBsjysMJ-4H&index=4) (20:40) 
+[video5](https://www.youtube.com/watch?v=IqYdWXUSv_g&list=PLCrFTE7Gu_3RG98Ahj3MCgdBsjysMJ-4H&index=5) (17:12) 
 3. Probabilités
 4. Moyenne variance, échantillonnage
 6. Histogramme, fonction de répartition
