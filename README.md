@@ -1,8 +1,8 @@
 # MAT4681
 
+Plan de cours introduction [plan_de_cours.pdf](https://github.com/freakonometrics/MAT4681/blob/master/documents_divers/Plan_Cours_MAT4681.pdf) (non approuvé)
 
-## Plan du cours
-
+## Stucture du cours
 
 1. Données, individus, variables
 2. R, introduction [slides02.pdf](https://github.com/freakonometrics/MAT4681/blob/master/slides/MAT_4681_slides_02.pdf) [cours.R](https://github.com/freakonometrics/MAT4681/blob/master/slides/cours.R)
