@@ -1,4 +1,4 @@
-# MAT4681
+# MAT4681 STATISTIQUES
 
 Plan de cours : [plan_de_cours.pdf](https://github.com/freakonometrics/MAT4681/blob/master/documents_divers/Plan_Cours_MAT4681.pdf) (non approuvé)
 
