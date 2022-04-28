@@ -1,6 +1,6 @@
 # MAT4681
 
-Plan de cours introduction [plan_de_cours.pdf](https://github.com/freakonometrics/MAT4681/blob/master/documents_divers/Plan_Cours_MAT4681.pdf) (non approuvé)
+Plan de cours : [plan_de_cours.pdf](https://github.com/freakonometrics/MAT4681/blob/master/documents_divers/Plan_Cours_MAT4681.pdf) (non approuvé)
 
 ## Stucture du cours
 
