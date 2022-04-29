@@ -11,8 +11,21 @@ Plan de cours : [plan_de_cours.pdf](https://github.com/freakonometrics/MAT4681/b
 [video3](https://www.youtube.com/watch?v=w35n5JI-tw8&list=PLCrFTE7Gu_3RG98Ahj3MCgdBsjysMJ-4H&index=3) (18:51) 
 [video4](https://www.youtube.com/watch?v=IqYdWXUSv_g&list=PLCrFTE7Gu_3RG98Ahj3MCgdBsjysMJ-4H&index=4) (20:40) 
 [video5](https://www.youtube.com/watch?v=IqYdWXUSv_g&list=PLCrFTE7Gu_3RG98Ahj3MCgdBsjysMJ-4H&index=5) (17:12) 
-3. Probabilités
-4. Moyenne variance, échantillonnage
+3. Probabilités, 
+4. Moyenne variance, maths [slides04-1.pdf](https://github.com/freakonometrics/MAT4681/blob/master/slides/MAT_4681_slides_04_1.pdf)
+[video1](https://www.youtube.com/watch?v=IqYdWXUSv_g&list=PLCrFTE7Gu_3RG98Ahj3MCgdBsjysMJ-4H&index=6) (34:03) 
+[video2](https://www.youtube.com/watch?v=UbZV1NSbabU&list=PLCrFTE7Gu_3RG98Ahj3MCgdBsjysMJ-4H&index=7) (19:46) 
+variables aléatoires [slides04-2.pdf](https://github.com/freakonometrics/MAT4681/blob/master/slides/MAT_4681_slides_04_2.pdf) 
+[video1](https://www.youtube.com/watch?v=IqYdWXUSv_g&list=PLCrFTE7Gu_3RG98Ahj3MCgdBsjysMJ-4H&index=8) (38:28) 
+[video2](https://www.youtube.com/watch?v=UbZV1NSbabU&list=PLCrFTE7Gu_3RG98Ahj3MCgdBsjysMJ-4H&index=9) (32:42) 
+[video3](https://www.youtube.com/watch?v=IqYdWXUSv_g&list=PLCrFTE7Gu_3RG98Ahj3MCgdBsjysMJ-4H&index=10) (20:28) 
+[video4](https://www.youtube.com/watch?v=UbZV1NSbabU&list=PLCrFTE7Gu_3RG98Ahj3MCgdBsjysMJ-4H&index=11) (23:22)
+[video5](https://www.youtube.com/watch?v=IqYdWXUSv_g&list=PLCrFTE7Gu_3RG98Ahj3MCgdBsjysMJ-4H&index=12) (20:02) 
+[video6](https://www.youtube.com/watch?v=UbZV1NSbabU&list=PLCrFTE7Gu_3RG98Ahj3MCgdBsjysMJ-4H&index=13) (51:44) 
+[video7](https://www.youtube.com/watch?v=IqYdWXUSv_g&list=PLCrFTE7Gu_3RG98Ahj3MCgdBsjysMJ-4H&index=14) (41:59) 
+[video8](https://www.youtube.com/watch?v=UbZV1NSbabU&list=PLCrFTE7Gu_3RG98Ahj3MCgdBsjysMJ-4H&index=15) (21:40) 
+[video99](https://www.youtube.com/watch?v=UbZV1NSbabU&list=PLCrFTE7Gu_3RG98Ahj3MCgdBsjysMJ-4H&index=16) (31:13)
+échantillon [slides04-3.pdf](https://github.com/freakonometrics/MAT4681/blob/master/slides/MAT_4681_slides_04_3.pdf)
 6. Histogramme, fonction de répartition
 7. Plan d’expérience
 8. Générer du hasard
