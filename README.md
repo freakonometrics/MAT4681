@@ -24,7 +24,7 @@ variables aléatoires [slides04-2.pdf](https://github.com/freakonometrics/MAT468
 [video6](https://www.youtube.com/watch?v=2RI78QiRcN0&list=PLCrFTE7Gu_3RG98Ahj3MCgdBsjysMJ-4H&index=13) (51:44) 
 [video7](https://www.youtube.com/watch?v=nB5BV1vMWiU&list=PLCrFTE7Gu_3RG98Ahj3MCgdBsjysMJ-4H&index=14) (41:59) 
 [video8](https://www.youtube.com/watch?v=zhJl4LVzlNA&list=PLCrFTE7Gu_3RG98Ahj3MCgdBsjysMJ-4H&index=15) (21:40) 
-[video99](https://www.youtube.com/watch?v=yyJCU3OiobU&list=PLCrFTE7Gu_3RG98Ahj3MCgdBsjysMJ-4H&index=16) (31:13)
+[video9](https://www.youtube.com/watch?v=yyJCU3OiobU&list=PLCrFTE7Gu_3RG98Ahj3MCgdBsjysMJ-4H&index=16) (31:13)
 échantillon [slides04-3.pdf](https://github.com/freakonometrics/MAT4681/blob/master/slides/MAT_4681_slides_04_3.pdf)
 6. Histogramme, fonction de répartition
 7. Plan d’expérience
