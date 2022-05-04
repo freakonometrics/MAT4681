@@ -4,14 +4,14 @@ Plan de cours : [plan_de_cours.pdf](https://github.com/freakonometrics/MAT4681/b
 
 ## Stucture du cours
 
-1. Données, individus, variables
+1. Données, individus, variables [slides01.pdf](https://github.com/freakonometrics/MAT4681/blob/master/slides/MAT_4681_slides_01.pdf) 
 2. R, introduction [slides02.pdf](https://github.com/freakonometrics/MAT4681/blob/master/slides/MAT_4681_slides_02.pdf) [cours.R](https://github.com/freakonometrics/MAT4681/blob/master/slides/cours.R)
 [video1](https://www.youtube.com/watch?v=IqYdWXUSv_g&list=PLCrFTE7Gu_3RG98Ahj3MCgdBsjysMJ-4H&index=1) (29:24) 
 [video2](https://www.youtube.com/watch?v=UbZV1NSbabU&list=PLCrFTE7Gu_3RG98Ahj3MCgdBsjysMJ-4H&index=2) (22:11) 
 [video3](https://www.youtube.com/watch?v=w35n5JI-tw8&list=PLCrFTE7Gu_3RG98Ahj3MCgdBsjysMJ-4H&index=3) (18:51) 
 [video4](https://www.youtube.com/watch?v=IqYdWXUSv_g&list=PLCrFTE7Gu_3RG98Ahj3MCgdBsjysMJ-4H&index=4) (20:40) 
 [video5](https://www.youtube.com/watch?v=bW-zgiaLP2Q&list=PLCrFTE7Gu_3RG98Ahj3MCgdBsjysMJ-4H&index=5) (17:12) 
-3. Probabilités, 
+3. Probabilités, [slides03.pdf](https://github.com/freakonometrics/MAT4681/blob/master/slides/MAT_4681_slides_03.pdf) 
 4. Moyenne variance, maths [slides04-1.pdf](https://github.com/freakonometrics/MAT4681/blob/master/slides/MAT_4681_slides_04_1.pdf)
 [video1](https://www.youtube.com/watch?v=EuhxzuAyth0&list=PLCrFTE7Gu_3RG98Ahj3MCgdBsjysMJ-4H&index=6) (34:03) 
 [video2](https://www.youtube.com/watch?v=yjvtJgyTDog&list=PLCrFTE7Gu_3RG98Ahj3MCgdBsjysMJ-4H&index=7) (19:46) 
@@ -26,12 +26,12 @@ variables aléatoires [slides04-2.pdf](https://github.com/freakonometrics/MAT468
 [video8](https://www.youtube.com/watch?v=zhJl4LVzlNA&list=PLCrFTE7Gu_3RG98Ahj3MCgdBsjysMJ-4H&index=15) (21:40) 
 [video9](https://www.youtube.com/watch?v=yyJCU3OiobU&list=PLCrFTE7Gu_3RG98Ahj3MCgdBsjysMJ-4H&index=16) (31:13)
 échantillon [slides04-3.pdf](https://github.com/freakonometrics/MAT4681/blob/master/slides/MAT_4681_slides_04_3.pdf)
-6. Histogramme, fonction de répartition
-7. Plan d’expérience
-8. Générer du hasard
-9. Loi normale
-10. Modèles probabilistes
-11. Intervalle de confiance
+5. Histogramme, fonction de répartition [slides05.pdf](https://github.com/freakonometrics/MAT4681/blob/master/slides/MAT_4681_slides_05.pdf) 
+6. Plan d’expérience, échantillonnage, observations et expériences [slides06.pdf](https://github.com/freakonometrics/MAT4681/blob/master/slides/MAT_4681_slides_06.pdf) 
+7. Générer du hasard [slides07.pdf](https://github.com/freakonometrics/MAT4681/blob/master/slides/MAT_4681_slides_07.pdf) 
+8. Loi normale [slides08.pdf](https://github.com/freakonometrics/MAT4681/blob/master/slides/MAT_4681_slides_08.pdf) 
+9. Modèles probabilistes [slides09.pdf](https://github.com/freakonometrics/MAT4681/blob/master/slides/MAT_4681_slides_09.pdf) 
+10. Intervalle de confiance
 12. Tests d’hypotheses
 13. Proportions
 14. Tableaux croisés 
