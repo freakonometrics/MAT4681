@@ -31,7 +31,7 @@ variables aléatoires [slides04-2.pdf](https://github.com/freakonometrics/MAT468
 7. Générer du hasard [slides07.pdf](https://github.com/freakonometrics/MAT4681/blob/master/slides/MAT_4681_slides_07.pdf) 
 8. Loi normale [slides08.pdf](https://github.com/freakonometrics/MAT4681/blob/master/slides/MAT_4681_slides_08.pdf) 
 9. Modèles probabilistes [slides09.pdf](https://github.com/freakonometrics/MAT4681/blob/master/slides/MAT_4681_slides_09.pdf) 
-10. Intervalle de confiance
+10. Intervalle de confiance [slides10.pdf](https://github.com/freakonometrics/MAT4681/blob/master/slides/MAT_4681_slides_10.pdf) 
 12. Tests d’hypotheses
 13. Proportions
 14. Tableaux croisés 
