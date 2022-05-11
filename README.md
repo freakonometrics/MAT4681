@@ -32,16 +32,13 @@ variables aléatoires [slides04-2.pdf](https://github.com/freakonometrics/MAT468
 [video2](https://www.youtube.com/watch?v=OyIkSBb3zRY&list=PLCrFTE7Gu_3RG98Ahj3MCgdBsjysMJ-4H&index=28) (17:15)
 9. Modèles probabilistes [slides09.pdf](https://github.com/freakonometrics/MAT4681/blob/master/slides/MAT_4681_slides_09.pdf) 
 10. Intervalle de confiance [slides10.pdf](https://github.com/freakonometrics/MAT4681/blob/master/slides/MAT_4681_slides_10.pdf) 
-12. Tests d’hypotheses
-13. Proportions
-14. Tableaux croisés 
-15. Test du chi-deux
-16. Comparaison de moyennes (1)
-17. Comparaison de moyennes (2)
-18. Analyse de la variance à 1 facteur
-19. Analyse de la variance à 2 facteurs
-20. Corrélation
-21. Régression linéaire simple
-22. Régression multiple (1)
-23. Régression multiple (2)
-24. Régression polynomiale
+11. Tests d’hypotheses [slides11.pdf](https://github.com/freakonometrics/MAT4681/blob/master/slides/MAT_4681_slides_11.pdf) 
+12. Proportions
+13. Tableaux croisés 
+14. Test du chi-deux
+15. Comparaison de moyennes 
+16. Analyse de la variance à 1 facteur
+17. Analyse de la variance à 2 facteurs
+18. Corrélation
+19. Régression linéaire simple
+20. Régression multiple 
