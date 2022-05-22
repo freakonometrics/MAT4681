@@ -45,6 +45,8 @@ variables aléatoires [slides04-2.pdf](https://github.com/freakonometrics/MAT468
 ## Références (livres)
 
 1. Tassi (2004) [Méthodes statistiques](https://www.eyrolles.com/Sciences/Livre/methodes-statistiques-9782717848595/) 
-2. Saporta (2010) [Probabilités, analyse des données et statistique]([Probabilités, analyse des données et statistique](https://books.google.ca/books/about/Probabilit%C3%A9s_analyse_des_donn%C3%A9es_et_st.html?hl=fr&id=rprNjztQYPAC&redir_esc=y))
+2. Saporta (2010) [Probabilités, analyse des données et statistique](Probabilités, analyse des données et statistique](https://books.google.ca/books/about/Probabilit%C3%A9s_analyse_des_donn%C3%A9es_et_st.html?hl=fr&id=rprNjztQYPAC&redir_esc=y)
 3. Hogg, McKean & Craig (2019) [Introduction to Mathematical Statistics](https://minerva.it.manchester.ac.uk/~saralees/statbook2.pdf) 
+4. Hogg, Tanis & Zimmerman (2015) [Probability and Statistical Inference](https://faculty.ksu.edu.sa/sites/default/files/677_fr37hij.pdf)
+5. Rice (2007) [Mathematical Statistics and Data Analysis](http://dase.ecnu.edu.cn/mgao/teaching/UStat_2018_Fall/mathematical+statistics+and+data+analysis.pdf)
 
