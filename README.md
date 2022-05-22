@@ -42,6 +42,10 @@ variables aléatoires [slides04-2.pdf](https://github.com/freakonometrics/MAT468
 16. Régression multiple 
 17. Comparaison de moyennes et analyse de la variance 
 
+## Exercices
+
+1. [Exercices de probabilités]([https://raw.githubusercontent.com/freakonometrics/MAT4681/master/exercices-probabilites.pdf)
+
 ## Références (livres)
 
 1. Tassi (2004) [Méthodes statistiques](https://www.eyrolles.com/Sciences/Livre/methodes-statistiques-9782717848595/) 
