@@ -44,5 +44,7 @@ variables aléatoires [slides04-2.pdf](https://github.com/freakonometrics/MAT468
 
 ## Références (livres)
 
-1. Données, individus, variables [slides01.pdf](https://github.com/freakonometrics/MAT4681/blob/master/slides/MAT_4681_slides_01.pdf) 
+1. Tassi (2004) [Méthodes statistiques](https://www.eyrolles.com/Sciences/Livre/methodes-statistiques-9782717848595/) 
+2. Saporta (2010) [Probabilités, analyse des données et statistique]([Probabilités, analyse des données et statistique](https://books.google.ca/books/about/Probabilit%C3%A9s_analyse_des_donn%C3%A9es_et_st.html?hl=fr&id=rprNjztQYPAC&redir_esc=y))
+3. Hogg, McKean & Craig (2019) [Introduction to Mathematical Statistics](https://minerva.it.manchester.ac.uk/~saralees/statbook2.pdf) 
 
