@@ -46,4 +46,5 @@ variables aléatoires [slides04-2.pdf](https://github.com/freakonometrics/MAT468
 3. Hogg, McKean & Craig (2019) [Introduction to Mathematical Statistics](https://minerva.it.manchester.ac.uk/~saralees/statbook2.pdf) 
 4. Hogg, Tanis & Zimmerman (2015) [Probability and Statistical Inference](https://faculty.ksu.edu.sa/sites/default/files/677_fr37hij.pdf)
 5. Rice (2007) [Mathematical Statistics and Data Analysis](http://dase.ecnu.edu.cn/mgao/teaching/UStat_2018_Fall/mathematical+statistics+and+data+analysis.pdf)
+6. Daly et al. (1994) [Elements of Statistics](https://blackwells.co.uk/bookshop/product/Elements-of-Statistics-by-Dr-Kevin-McConway-author-Fergus-Daly-author-Prof-David-Hand-author-Dr-Chris-Jones-author-Dr-Daniel-Lunn-author/9780201422788)
 
