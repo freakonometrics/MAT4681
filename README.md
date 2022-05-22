@@ -35,7 +35,8 @@ variables aléatoires [slides04-2.pdf](https://github.com/freakonometrics/MAT468
 11. Tests d’hypotheses [slides11.pdf](https://github.com/freakonometrics/MAT4681/blob/master/slides/MAT_4681_slides_11.pdf) 
 12. Proportions [slides12.pdf](https://github.com/freakonometrics/MAT4681/blob/master/slides/MAT_4681_slides_12.pdf) 
 13. Tableaux croisés et test du chi-deux [slides13.pdf](https://github.com/freakonometrics/MAT4681/blob/master/slides/MAT_4681_slides_13.pdf) 
-14. Comparaison de moyennes et analyse de la variance 
-15. Corrélation
-16. Régression linéaire simple
-17. Régression multiple 
+14. Corrélation
+15. Régression linéaire simple
+16. Régression multiple 
+17. Comparaison de moyennes et analyse de la variance 
+
