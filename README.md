@@ -1,6 +1,8 @@
 # MAT4681 STATISTIQUES
 
-Plan de cours : [plan_de_cours.pdf](https://github.com/freakonometrics/MAT4681/blob/master/documents_divers/Plan_Cours_MAT4681.pdf) (non approuvé)
+Plan de cours : [plan_de_cours.pdf](https://github.com/freakonometrics/MAT4681/blob/master/documents_divers/Plan_Cours_MAT4681.pdf) (approuvé)
+
+Examens écrits : mercredi 22 juin (18-21) et mercredi 10 août (18-21)
 
 ## Stucture du cours
 
@@ -39,4 +41,8 @@ variables aléatoires [slides04-2.pdf](https://github.com/freakonometrics/MAT468
 15. Régression linéaire simple
 16. Régression multiple 
 17. Comparaison de moyennes et analyse de la variance 
+
+## Références (livres)
+
+1. Données, individus, variables [slides01.pdf](https://github.com/freakonometrics/MAT4681/blob/master/slides/MAT_4681_slides_01.pdf) 
 
