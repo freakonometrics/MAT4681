@@ -32,7 +32,7 @@ variables aléatoires [slides04-2.pdf](https://github.com/freakonometrics/MAT468
 13. Tableaux croisés et test du chi-deux [slides13.pdf](https://github.com/freakonometrics/MAT4681/blob/master/slides/MAT_4681_slides_13.pdf) 
 14. Corrélation [slides14.pdf](https://github.com/freakonometrics/MAT4681/blob/master/slides/MAT_4681_slides_14.pdf) 
 15. Régression linéaire simple [slides15.pdf](https://github.com/freakonometrics/MAT4681/blob/master/slides/MAT_4681_slides_15.pdf) 
-16. Régression multiple 
+16. Régression linéaire multiple [slides16.pdf](https://github.com/freakonometrics/MAT4681/blob/master/slides/MAT_4681_slides_16.pdf) 
 17. Comparaison de moyennes et analyse de la variance 
 
 ## Exercices
