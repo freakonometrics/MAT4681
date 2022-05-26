@@ -37,7 +37,7 @@ variables aléatoires [slides04-2.pdf](https://github.com/freakonometrics/MAT468
 
 ## Exercices
 
-1. [Exercices de probabilités](https://raw.githubusercontent.com/freakonometrics/MAT4681/master/exercices-probabilites.pdf)
+1. [Exercices de probabilités](https://github.com/freakonometrics/MAT4681/blob/master/slides/exercices-probabilites.pdf))
 
 ## Références (livres)
 
