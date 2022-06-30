@@ -39,6 +39,11 @@ variables aléatoires [slides04-2.pdf](https://github.com/freakonometrics/MAT468
 
 1. [Exercices de probabilités](https://github.com/freakonometrics/MAT4681/blob/master/slides/exercices-probabilites.pdf)
 
+## Examens
+
+1. [Enoncé](https://github.com/freakonometrics/MAT4681/blob/master/documents_divers/MAT_4681_INTRA_sujet.pdf) et [éléments de correction](https://github.com/freakonometrics/MAT4681/blob/master/documents_divers/MAT_4681_INTRA_elements_de_correction.pdf)
+
+
 ## Références (livres)
 
 1. Tassi (2004) [Méthodes statistiques](https://www.eyrolles.com/Sciences/Livre/methodes-statistiques-9782717848595/) [QA276 T266.2004]
