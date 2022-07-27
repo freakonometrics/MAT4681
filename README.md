@@ -34,6 +34,8 @@ variables aléatoires [slides04-2.pdf](https://github.com/freakonometrics/MAT468
 15. Régression linéaire simple [slides15.pdf](https://github.com/freakonometrics/MAT4681/blob/master/slides/MAT_4681_slides_15.pdf) 
 16. Régression linéaire multiple [slides16.pdf](https://github.com/freakonometrics/MAT4681/blob/master/slides/MAT_4681_slides_16.pdf) 
 
+Toutes les vidéos sont sur la [playlist YouTube](https://www.youtube.com/watch?v=IqYdWXUSv_g&list=PLCrFTE7Gu_3RG98Ahj3MCgdBsjysMJ-4H)
+
 ## Exercices
 
 1. [Exercices de probabilités](https://github.com/freakonometrics/MAT4681/blob/master/slides/exercices-probabilites.pdf)
