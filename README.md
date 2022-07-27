@@ -29,11 +29,10 @@ variables aléatoires [slides04-2.pdf](https://github.com/freakonometrics/MAT468
 10. Intervalle de confiance [slides10.pdf](https://github.com/freakonometrics/MAT4681/blob/master/slides/MAT_4681_slides_10.pdf) 
 11. Tests d’hypotheses [slides11.pdf](https://github.com/freakonometrics/MAT4681/blob/master/slides/MAT_4681_slides_11.pdf) 
 12. Proportions [slides12.pdf](https://github.com/freakonometrics/MAT4681/blob/master/slides/MAT_4681_slides_12.pdf) 
-13. Tableaux croisés et test du chi-deux [slides13.pdf](https://github.com/freakonometrics/MAT4681/blob/master/slides/MAT_4681_slides_13.pdf) 
-14. Corrélation [slides14.pdf](https://github.com/freakonometrics/MAT4681/blob/master/slides/MAT_4681_slides_14.pdf) 
+13. Tableaux croisés et test du chi-deux [slides13.pdf](https://github.com/freakonometrics/MAT4681/blob/master/slides/MAT_4681_slides_13.pdf) [video1](https://www.youtube.com/watch?v=cIyO3cy4h74&list=PLCrFTE7Gu_3RG98Ahj3MCgdBsjysMJ-4H&index=51) [video2](https://www.youtube.com/watch?v=m0jVKFA9uNQ&list=PLCrFTE7Gu_3RG98Ahj3MCgdBsjysMJ-4H&index=52) [video3](https://www.youtube.com/watch?v=ky34j0uFCxc&list=PLCrFTE7Gu_3RG98Ahj3MCgdBsjysMJ-4H&index=53) [video4](https://www.youtube.com/watch?v=hO7_6LOQ72U&list=PLCrFTE7Gu_3RG98Ahj3MCgdBsjysMJ-4H&index=54)
+14. Corrélation [slides14.pdf](https://github.com/freakonometrics/MAT4681/blob/master/slides/MAT_4681_slides_14.pdf) [video1](https://www.youtube.com/watch?v=CXWwu6QD29M&list=PLCrFTE7Gu_3RG98Ahj3MCgdBsjysMJ-4H&index=55) [video2](https://www.youtube.com/watch?v=wsG1PPetCB8&list=PLCrFTE7Gu_3RG98Ahj3MCgdBsjysMJ-4H&index=56)
 15. Régression linéaire simple [slides15.pdf](https://github.com/freakonometrics/MAT4681/blob/master/slides/MAT_4681_slides_15.pdf) 
 16. Régression linéaire multiple [slides16.pdf](https://github.com/freakonometrics/MAT4681/blob/master/slides/MAT_4681_slides_16.pdf) 
-17. Comparaison de moyennes et analyse de la variance 
 
 ## Exercices
 
