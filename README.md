@@ -42,7 +42,8 @@ Toutes les vidéos sont sur la [playlist YouTube](https://www.youtube.com/watch?
 
 ## Examens
 
-1. [Enoncé](https://github.com/freakonometrics/MAT4681/blob/master/documents_divers/MAT_4681_INTRA_sujet.pdf) et [éléments de correction](https://github.com/freakonometrics/MAT4681/blob/master/documents_divers/MAT_4681_INTRA_elements_de_correction.pdf)
+1. Intra: [Enoncé](https://github.com/freakonometrics/MAT4681/blob/master/documents_divers/MAT_4681_INTRA_sujet.pdf) et [éléments de correction](https://github.com/freakonometrics/MAT4681/blob/master/documents_divers/MAT_4681_INTRA_elements_de_correction.pdf)
+2. Final: [Enoncé](https://github.com/freakonometrics/MAT4681/blob/master/documents_divers/MAT_4681-FINAL-sujet.pdf) et [éléments de correction](https://github.com/freakonometrics/MAT4681/blob/master/documents_divers/MAT_4681_FINAL_elements_de_correction.pdf)
 
 
 ## Références (livres)
